@@ -14,7 +14,7 @@ import {
 
 function App() {
 	return (
-		<div className="w-[595px] h-[842px] mx-auto my-4 shadow-xl bg-light px-8 py-12 text-xs space-y-8 text-dark font-['Nanum Gothic Coding']">
+		<div className="w-[595px] h-[842px] mx-auto my-1 shadow-xl bg-light px-8 py-12 text-xs space-y-8 text-dark font-['Nanum Gothic Coding']">
 			{/* Header */}
 			<div className="grid grid-cols-12">
 				<img src={image} className="h-[128px] shadow col-span-4" />
