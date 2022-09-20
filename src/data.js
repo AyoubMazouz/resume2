@@ -59,14 +59,17 @@ export const programmingLangues = {
 }
 
 export const hobbies = [
-	"Dessin",
+	"histoires",
 	"regarder des films",
 	"Documentaires",
 	"Podcasts",
+	"Technologie",
 	"Astronomie",
 	"biologie",
-	"Technologie",
+	"Dessin",
 	"Jeux vidéos",
+	"cuisine",
+	"apprendre de nouvelles compétences",
 ]
 
 export const languages = [
