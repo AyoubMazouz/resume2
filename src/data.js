@@ -13,11 +13,11 @@ export const details = [
 
 export const educations = [
 	["2019 - 2020", "Baccalauréat branche Science de la Vie et la Terre (SVT)."],
-	["2021 - 2022", "Première année en infrastructure informatique (OFPPT)."],
+	["2021 - 2023", "Infrastructure informatique à NTIC1 (OFPPT) à Casablanca."],
 ]
 
 export const experiences = [
-	["juil - août 2022", "PHP/Laravel Backend Developer à Sirecom.ma."],
+	["Juil - Août 2022", "PHP/Laravel Backend Developer à Sirecom.ma."],
 ]
 
 export const competencies = [
