@@ -1,4 +1,4 @@
-import _image from "./assets/profile.png"
+import _image from "./assets/profile.jpg"
 
 // full name must be separated with space
 export const fullName = "Mazouz Ayoub"
@@ -38,7 +38,7 @@ export const programmingLangues = {
 		"Git",
 		"ReactJs",
 		"NodeJs",
-		"TailwindCSS.",
+		"TailwindCSS",
 	],
 	familiar: [
 		"C#",
