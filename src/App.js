@@ -1,13 +1,16 @@
 import "./App.css"
+import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Resume from "./Resume"
-import CoverLetter from "./CoverLetter"
+import Home from "./Home"
 
 function App() {
 	return (
-		<div className="space-y-12">
-			<CoverLetter />
-			<Resume />
-		</div>
+		<BrowserRouter>
+			<Routes>
+				<Route path="/" element={<Home />} />
+				<Route path="/resume" element={<Resume />} />
+			</Routes>
+		</BrowserRouter>
 	)
 }
 
